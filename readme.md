@@ -2,6 +2,22 @@
 
 This adds the [radix color palette](https://www.radix-ui.com/colors) to Tailwind CSS
 
+## Installation
+
+You can install this using
+
+```sh
+npm install radix-colors-for-tailwind
+```
+
+or
+
+```sh
+yarn install radix-colors-for-tailwind
+```
+
+## Usage
+
 You can add this plugin under the `plugins` key of your `tailwind.config.js` as follows:
 
 ```js
