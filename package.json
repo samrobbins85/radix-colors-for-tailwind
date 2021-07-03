@@ -1,0 +1,20 @@
+{
+  "name": "radix-colors-for-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samrobbins85/radix-colors-for-tailwind.git"
+  },
+  "author": "Sam Robbins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samrobbins85/radix-colors-for-tailwind/issues"
+  },
+  "homepage": "https://github.com/samrobbins85/radix-colors-for-tailwind#readme",
+  "dependencies": {
+    "@radix-ui/colors": "^0.1.7",
+    "tailwindcss": "^2.2.4"
+  }
+}
