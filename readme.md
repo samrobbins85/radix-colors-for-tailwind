@@ -30,6 +30,8 @@ plugins: [
 
 Replace the colours in the `colors` array with whatever colours you want including
 
+Colours can then be accessed under the `radix` property, so the second step of blue would be `radix-blue2`, or if you were to use this for example with text colour, `text-radix-blue2`.
+
 ## Additional features
 
 This package also includes a range of component classes to speed up development, these are based on the suggestions for how to use [the scale](https://www.radix-ui.com/docs/colors/palette-composition/understanding-the-scale)
