@@ -13,7 +13,7 @@ npm install radix-colors-for-tailwind
 or
 
 ```sh
-yarn install radix-colors-for-tailwind
+yarn add radix-colors-for-tailwind
 ```
 
 ## Usage
