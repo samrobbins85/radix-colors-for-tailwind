@@ -99,9 +99,11 @@ module.exports = plugin.withOptions(
       }, {});
     return {
       theme: {
-        colors: {
-          radix: {
-            ...filtered,
+        extend: {
+          colors: {
+            radix: {
+              ...filtered,
+            },
           },
         },
       },
